@@ -16,13 +16,13 @@ const Projects = () => {
     {
       title: "Version Control System",
       description: "Git-like version control system with branching, merging, and commit functionalities.",
-      technologies: ["Python", "File System", "Data Structures"],
+      technologies: ["C", "File System", "Data Structures"],
       features: ["Branching system", "Merge conflicts resolution", "Commit tracking"]
     },
     {
       title: "Python Mini Games",
       description: "Collection of classic games including Tic-Tac-Toe, Hangman, and Rock-Paper-Scissors.",
-      technologies: ["Python", "Game Logic", "User Interface"],
+      technologies: ["Python", "Game Logic"],
       features: ["Multiple game modes", "Score tracking", "Interactive gameplay"]
     }
   ];
