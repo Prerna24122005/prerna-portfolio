@@ -52,7 +52,7 @@ const Hero = () => {
             <div className="w-80 h-80 bg-gradient-to-br from-blue-200 to-slate-200 rounded-full flex items-center justify-center animate-fade-in p-4">
               <div className="w-72 h-72 bg-white rounded-full flex items-center justify-center shadow-lg overflow-hidden">
                 <img 
-                  src="/lovable-uploads/95f76517-f5a1-4eda-95fb-4e668d647f4c.png" 
+                  src="/lovable-uploads/my.jpg" 
                   alt="Prerna's Profile Picture"
                   className="w-full h-full object-cover rounded-full"
                 />
