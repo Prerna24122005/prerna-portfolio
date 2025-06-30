@@ -16,7 +16,7 @@ const Experience = () => {
     {
       title: "AWS Solutions Architect",
       organization: "Forage Virtual Experience",
-      period: "2024",
+      period: "2025",
       description: "Designed scalable cloud architecture solutions using AWS Elastic Beanstalk and related services.",
       achievements: [
         "Designed scalable system architecture",
