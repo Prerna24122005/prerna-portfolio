@@ -5,7 +5,7 @@ const Education = () => {
       institution: "Indian Institute of Technology (IIT) Ropar",
       degree: "Bachelor of Technology in Computer Science and Engineering",
       period: "2023 - 2027",
-      grade: "CGPA: 7.51 (Till 4th Semester)",
+      grade: "CGPA: 7.64 (Till 6th Semester)",
       description: "Pursuing a comprehensive curriculum in computer science with focus on algorithms, data structures, and software development."
     },
     {
