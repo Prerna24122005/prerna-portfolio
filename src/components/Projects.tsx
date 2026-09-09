@@ -65,6 +65,23 @@ const Projects = () => {
       ]
     },
     {
+  title: "DSA Visualizer",
+  description:
+    "Developed a Sorting Visualizer to visually demonstrate how different sorting algorithms work through interactive animations.",
+  technologies: [
+    "Data Structures & Algorithms",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  features: [
+    "Visualized Bubble Sort, Insertion Sort, Quick Sort, and Merge Sort",
+    "Animated algorithm steps for interactive learning",
+    "Demonstrated algorithm behavior and time complexity",
+    "Designed for educational and interactive learning"
+  ]
+},
+    {
       title: "Python Mini Games",
       description:
         "Collection of classic games including Tic-Tac-Toe, Hangman, and Rock-Paper-Scissors.",
